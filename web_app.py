@@ -55,7 +55,7 @@ if st.button("✨ 生成爆款文案"):
                 st.write("基础版 AI 生成仅供参考，我提供 **RM 30/篇** 的深度人工校对与排版服务。")
                 
                 # WhatsApp 链接优化：去掉了0，加上了马来西亚区号 60，这样直接点击才能跳转！
-                whatsapp_link = "https://wa.me/60177231982?text=你好Vesper，我从文案大师网站过来，想咨询文案定制服务。"
+                whatsapp_link = "https://wa.me/601112192661?text=你好Vesper，我从文案大师网站过来，想咨询文案定制服务。"
                 st.link_button("📱 点击 WhatsApp 直接联系我", whatsapp_link)
                 
             except Exception as e:
